@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1395607006 source:c:\users\colavite7\documents\projetos\samurai\main.c
+	<allegro.h>
+
+1398834645 source:c:\users\danilo\documents\projetos\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1403913945 source:c:\users\bruna\documents\faculdade\computação gráfica\projetos\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:c:\users\bruna\documents\faculdade\computação gráfica\projetos\samurai\teclado.c
+	"teclado.h"
+
+1398302768 c:\users\bruna\documents\faculdade\computação gráfica\projetos\samurai\teclado.h
+	<allegro.h>
+
+1398302766 source:c:\users\danilo\documents\projetos\samurai\teclado.c
+	"teclado.h"
+
+1398302768 c:\users\danilo\documents\projetos\samurai\teclado.h
+	<allegro.h>
+
+1398499917 source:c:\users\danilo\documents\projetos\samurai\func.c
+
+1398499520 c:\users\danilo\documents\projetos\samurai\func.h
+	<allegro.h>
+
+1401932688 source:c:\users\bruna\documents\faculdade\computação gráfica\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:c:\users\bruna\documents\faculdade\computação gráfica\samurai\teclado.c
+	"teclado.h"
+
+1398302768 c:\users\bruna\documents\faculdade\computação gráfica\samurai\teclado.h
+	<allegro.h>
+
+1402168402 source:g:\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:g:\samurai\teclado.c
+	"teclado.h"
+
+1398302768 g:\samurai\teclado.h
+	<allegro.h>
+
+1403757196 source:e:\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:e:\samurai\teclado.c
+	"teclado.h"
+
+1398302768 e:\samurai\teclado.h
+	<allegro.h>
+
+1403903408 source:d:\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:d:\samurai\teclado.c
+	"teclado.h"
+
+1398302768 d:\samurai\teclado.h
+	<allegro.h>
+
+1461632155 source:c:\users\bruna\documents\faculdade\2bcc\computação gráfica\1 semestre\projetos\samurai\main.c
+	<allegro.h>
+	<time.h>
+
+1398302766 source:c:\users\bruna\documents\faculdade\2bcc\computação gráfica\1 semestre\projetos\samurai\teclado.c
+	"teclado.h"
+
+1398302768 c:\users\bruna\documents\faculdade\2bcc\computação gráfica\1 semestre\projetos\samurai\teclado.h
+	<allegro.h>
+
+1398302766 source:c:\users\bruna\desktop\samurai\teclado.c
+	"teclado.h"
+
+1398302768 c:\users\bruna\desktop\samurai\teclado.h
+	<allegro.h>
+
+1466446005 source:c:\users\bruna\desktop\samurai\main.c
+	<allegro.h>
+	<time.h>
+
